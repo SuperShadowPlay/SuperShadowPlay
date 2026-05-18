@@ -3,7 +3,7 @@ Software Developer | IBM Mainframe Analyst | Open-Source Enthusiast
 
 ## About Me
 
-I'm a Senior Computer Science student at [VCU](https://www.vcu.edu/), passionate about building software that is useful, entertaining, and/or befuddling. I am always seeking new opportunities and building projects that bring joy into the world, or ones that at least solve a piddling annoyance. I'm a proud [Linux](https://fedoraproject.org/) user and have been programming since middle school.
+I'm a passionate about building software that is useful, entertaining, and/or befuddling. I am always seeking new opportunities and building projects that bring joy into the world, or ones that at least solve a piddling annoyance. I'm a proud [Linux](https://fedoraproject.org/) user and have been programming since middle school. In 2026, I graduated from [VCU](https://www.vcu.edu/) with a bachelor's in Computer Science/minor in Mathematics.
 
 ### Career
 
@@ -31,12 +31,12 @@ I also have several projects that don't have a web home:
 
 ## Fun Facts
 
-- I help run my school's Linux User Group
+- I was an officer in VCU's Linux User Group
 - I have a 1st degree blackbelt in Taekwondo
 - I'm an avid [Washington Capitals](https://www.nhl.com/capitals/) fan!
 
 <!---
-Maybe do this later? I feel like the main content is already long enough.
+Maybe do this later? The main content is already long enough.
 ## Tech Stack
 
 **Languages:**  
