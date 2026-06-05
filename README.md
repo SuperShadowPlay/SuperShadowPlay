@@ -17,7 +17,7 @@ I'm a passionate about building software that is useful, entertaining, and/or be
 
 I maintain several active domains where you can find my web-facing work:
 
-- **[trevorcorc.com](https://www.trevorcorc.com)** - A years old portfolio. Updating it is definitely on the to-do list!
+- **[trevorcorc.com](https://trevorcorc.com)** - My portfolio website written in [Astro](https://astro.build/)
 - **[forthe.quest](https://forthe.quest/)** - A [Dungeons and Dragons](https://www.dndbeyond.com/) initiative tracker made in Vue.js
 - **[doodlebrawl.com](https://doodlebrawl.com)** - An AI-powered battling game made with React and Python, where your doodles are given life (and bloodlust!)
 
