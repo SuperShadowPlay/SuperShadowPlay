@@ -7,7 +7,7 @@ I'm a passionate about building software that is useful, entertaining, and/or be
 
 ### Career
 
-- **Future Role**: IBM Mainframe Analyst @ [Bank of America](https://www.bankofamerica.com/)
+- **Current Role**: IBM Mainframe Analyst @ [Bank of America](https://www.bankofamerica.com/)
 - **Interests**: Software Development, [Game Development](https://dougisdoug.itch.io/), Mainframes, Computer History
 - **Currently Learning**: React, Socket Programming, Network Communication
 
